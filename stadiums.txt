@@ -1,0 +1,666 @@
+1            Tom Benson Hall of Fame Stadium                        Turf
+2             Los  Angeles Memorial Coliseum                       Grass
+3                           M&T Bank Stadium               Natural Grass
+4                              Lambeau Field              DD GrassMaster
+5                              Soldier Field                       Grass
+6                                Heinz Field                       Grass
+7                              Levis Stadium               Natural grass
+8                       Ralph Wilson Stadium                A-Turf Titan
+9                                    MetLife                   FieldTurf
+10                           MetLife Stadium       UBU Speed Series-S5-M
+11                        Paul Brown stadium       UBU Sports Speed S5-M
+12                          Gillette Stadium                  Field Turf
+13                     University of Phoenix                       Grass
+14                            Nissan Stadium                       Grass
+15                         Arrowhead Stadium               Natural Grass
+16                   Lincoln Financial Field                       Grass
+17                              Georgia Dome                   FieldTurf
+18                          Qualcomm Stadium                       Grass
+19                       FirstEnergy Stadium                       Grass
+20                         Lucas Oil Stadium                  Artificial
+21                            Nissan Stadium                       Grass
+22                          Gillette Stadium                  Field Turf
+23                                Ford Field                  Field Turf
+24             Los Angeles Memorial Coliseum                       Grass
+25                                      AT&T                  Artificial
+26                         CenturyLink Field                   FieldTurf
+27                               NRG Stadium                   Synthetic
+28                             New Era Field                A-Turf Titan
+29                                FedExField                       Grass
+30                             Lambeau Field              DD GrassMaster
+31                               Heinz Field                       Grass
+32       Sports Authority Field at Mile High                       grass
+33                            EverBank Field                       Grass
+34           Oakland Alameda County Coliseum                       Grass
+35                         U.S. Bank Stadium                  Field Turf
+36                               NRG Stadium                  Artificial
+37                            EverBank Field                       Grass
+38                                FedExField                       Grass
+39                         CenturyLink Field                   FieldTurf
+40                          M&T Bank Stadium               Natural Grass
+41                             Levis Stadium               Natural grass
+42                             Soldier Field                       Grass
+43       Sports Authority Field at Mile High                       Grass
+44                   Bank of America Stadium               Natural Grass
+45                                   MetLife                   FieldTurf
+46                         Lucas Oil Stadium                  Artificial
+47                   Mercedes-Benz Superdome       UBU Speed Series-S5-M
+48                     Camping World Stadium                  Artificial
+49                      Raymon James Stadium               Natural Grass
+50                              Georgia Dome                   FieldTurf
+51                         U.S. Bank Stadium                  Field Turf
+52                           MetLife Stadium       UBU Speed Series-S5-M
+53                   Lincoln Financial Field                       Grass
+54                   Bank of America Stadium              Natural Grass 
+55                          Qualcomm Stadium                       Grass
+56           Oakland Alameda County Coliseum                       Grass
+57                         Hard Rock Stadium               Natural Grass
+58                     Raymond James Stadium               Natural Grass
+59                   Mercedes-Benz Superdome       UBU Speed Series-S5-M
+60                                Ford Field                  Field Turf
+61                       FirstEnergy Stadium                       Grass
+62             University of Phoenix Stadium                       Grass
+63                         Arrowhead Stadium               Natural Grass
+64                                      AT&T                  Artificial
+65                        Paul Brown Stadium       UBU Sports Speed S5-M
+66       Sports Authority Field at Mile High                       Grass
+67                              Georgia Dome                   FieldTurf
+68                          M&T Bank Stadium               Natural Grass
+69                               NRG Stadium                  Artificial
+70                            EverBank Field                       Grass
+71                         Arrowhead Stadium               Natural Grass
+72                   Mercedes Benz-Superdome       UBU Speed Series-S5-M
+73                                   MetLife                   FieldTurf
+74                   Lincoln Financial Field                       Grass
+75                            Nissan Stadium                       Grass
+76                         CenturyLink Field                   FieldTurf
+77                                      AT&T                  Artificial
+78                         Lucas Oil Stadium                  Artificial
+79             University of Phoenix Stadium                       Grass
+80                                FedExField                       Grass
+81                             Levis Stadium               Natural Grass
+82                             New Era Field                A-Turf Titan
+83                   Bank of America Stadium               Natural Grass
+84                       FirstEnergy Stadium                       Grass
+85                                Ford Field                  Field Turf
+86                               NRG Stadium                  Artificial
+87                          Gillette Stadium                  Field Turf
+88                           MetLife Stadium       UBU Speed Series-S5-M
+89                               Heinz Field                       Grass
+90                                FedExField                       Grass
+91             University of Phoenix Stadium                       Grass
+92             Los Angeles Memorial Coliseum                       Grass
+93       Sports Authority Field at Mile High                       Grass
+94           Oakland Alameda County Coliseum                       Grass
+95                          Qualcomm Stadium                       Grass
+96                         U.S. Bank Stadium                  Field Turf
+97                             Soldier Field                       Grass
+98                          Gillette Stadium                  Field Turf
+99                             New Era Field                A-Turf Titan
+100                  Bank of America Stadium               Natural Grass
+101                       Paul Brown Stadium       UBU Sports Speed S5-M
+102                            Lambeau Field              DD GrassMaster
+103                           EverBank Field                       Grass
+104                        Hard Rock Stadium               Natural Grass
+105                          MetLife Stadium       UBU Speed Series-S5-M
+106                           Nissan Stadium                       Grass
+107                        CenturyLink Field                   FieldTurf
+108                    Raymond James Stadium               Natural Grass
+109                        Lucas Oil Stadium                  Artificial
+110                        Arrowhead Stadium               Natural Grass
+111                  Lincoln Financial Field                       Grass
+112                                     AT&T                  Artificial
+113                  Mercedes-Benz Superdome       UBU Speed Series-S5-M
+114                       Paul Brown Stadium       UBU Sports Speed S5-M
+115                          Wembley Stadium                       Grass
+116                             Georgia Dome                   FieldTurf
+117                         M&T Bank Stadium               Natural Grass
+118                            Solider Field               Natural Grass
+119                              NRG Stadium                  Artificial
+120                         Gillette Stadium                  Field Turf
+121                                  MetLife                   FieldTurf
+122                               FedExField                       Grass
+123                    Raymond James Stadium               Natural Grass
+124            University of Phoenix Stadium                       Grass
+125                         Qualcomm Stadium                       Grass
+126                            Levis Stadium               Natural Grass
+127                              Heinz Field                       Grass
+128                        U.S. Bank Stadium                  Field Turf
+129                            Levis Stadium               Natural grass
+130                       M & T Bank Stadium                     Natural
+131                      FirstEnergy Stadium                       Grass
+132                               Ford Field                  Field Turf
+133                        Lucas Oil Stadium                  Artificial
+134                        Hard Rock Stadium               Natural Grass
+135                        U.S. Bank Stadium                  Field Turf
+136                              Heinz Field                       Grass
+137      Sports Authority Field at Mile High                       Grass
+138                                     AT&T                  Artificial
+139            Los Angeles Memorial Coliseum                       Grass
+140          Oakland-Alameda County Coliseum               Natural Grass
+141                            Lambeau Field              DD GrassMaster
+142                  Bank of America Stadium               Natural Grass
+143                         Qualcomm Stadium                       Grass
+144                            New Era Field                A-Turf Titan
+145                            Solider Field               Natural Grass
+146                               Ford Field                  Field Turf
+147                        Hard Rock Stadium               Natural Grass
+148                         Gillette Stadium                  Field Turf
+149                  Mercedes-Benz Superdome       UBU Speed Series-S5-M
+150                          MetLife Stadium       UBU Speed Series-S5-M
+151                           Nissan Stadium                       Grass
+152                               FedExField                       Grass
+153          Oakland-Alameda County Coliseum                       Grass
+154                            Lambeau Field              DD GrassMaster
+155                        CenturyLink Field                   FieldTurf
+156                              NRG Stadium                  Artificial
+157            University of Phoenix Stadium                       Grass
+158                            Lambeau Field              DD GrassMaster
+159                               Twickenham                       Grass
+160                       Paul Brown Stadium       UBU Sports Speed S5-M
+161                               Ford Field                  Field Turf
+162                           EverBank Field                       Grass
+163                        Arrowhead Stadium               Natural Grass
+164                        Hard Rock Stadium               Natural Grass
+165                                  MetLife                   FieldTurf
+166                  Lincoln Financial Field                       Grass
+167                           Nissan Stadium                       Grass
+168                             Georgia Dome                   FieldTurf
+169                            Levis Stadium               Natural grass
+170                              Heinz Field                       Grass
+171            University of Phoenix Stadium                       Grass
+172      Sports Authority Field at Mile High                       Grass
+173                           Nissan Stadium                       Grass
+174                                  Wembley                       Grass
+175                             Georgia Dome                   FieldTurf
+176                            New Era Field                A-Turf Titan
+177                      FirstEnergy Stadium                       Grass
+178                             NRG Stadiium                  Artificial
+179                        Lucas Oil Stadium                  Artificial
+180                  Mercedes-Benz Superdome       UBU Speed Series-S5-M
+181                    Raymond James Stadium               Natural Grass
+182      Sports Authority Field at Mile High                       Grass
+183                  Bank of America Stadium               Natural Grass
+184                                     AT&T                  Artificial
+185                            Soldier Field               Natural Grass
+186                    Raymond James Stadium               Natural Grass
+187                         M&T Bank Stadium               Natural Grass
+188                      FirstEnergy Stadium                       Grass
+189                        Arrowhead Stadium               Natural Grass
+190                        Hard Rock Stadium               Natural grass
+191                          US Bank Stadium                  Field Turf
+192                          MetLife Stadium       UBU Speed Series-S5-M
+193            Los Angeles Memorial Coliseum                       Grass
+194                            Levis Stadium               Natural Grass
+195                            Lambeau Field              DD GrassMaster
+196                         Qualcomm Stadium                       Grass
+197          Oakland-Alameda County Coliseum               Natural Grass
+198                        CenturyLink Field                   FieldTurf
+199                       M & T Bank Stadium               Natural Grass
+200                  Bank of America Stadium               Natural Grass
+201                           EverBank Field                       Grass
+202                  Mercedes-Benz Superdome       UBU Speed Series-S5-M
+203                                  MetLife                   FieldTurf
+204                  Lincoln Financial Field                       Grass
+205                    Raymond James Stadium               Natural Grass
+206                           Nissan Stadium                       Grass
+207                               FedExField                       Grass
+208                         Qualcomm Stadium                       Grass
+209            University of Phoeinx Stadium                       Grass
+210                              Heinz Field                       Grass
+211                         Gillette Stadium                  Field Turf
+212                          MetLife Stadium       UBU Speed Series-S5-M
+213                 Bank of America Stadium               Natural Grass 
+214                       Paul Brown Stadium       UBU Sports Speed S5-M
+215                      FirstEnergy Stadium                       Grass
+216                             AT&T Stadium                  Artificial
+217                               Ford Field                  Field Turf
+218                                Lucas Oil                  Artificial
+219                        Arrowhead Stadium               Natural Grass
+220                        U.S. Bank Stadium                  Field Turf
+221                          MetLife Stadium       UBU Speed Series-S5-M
+222            Los Angeles Memorial Coliseum                       Grass
+223                            Levis Stadium               Natural Grass
+224                        CenturyLink Field                   FieldTurf
+225                               FedExField                       Grass
+226                           Estadio Azteca               Natural Grass
+227                               Ford Field                  Field Turf
+228                             AT&T Stadium                  Artificial
+229                        Lucas Oil Stadium                  Artificial
+230                             Georgia Dome                   FieldTurf
+231                         M&T Bank Stadium               Natural Grass
+232                            New Era Field                A-Turf Titan
+233                           Solidier Field               Natural Grass
+234                      FirstEnergy Stadium                       Grass
+235                              NRG Stadium                  Artificial
+236                        Hard Rock Stadium                         NaN
+237                  Mercedes-Benz Superdome       UBU Speed Series-S5-M
+238                    Raymond James Stadium               Natural Grass
+239      Sports Authority Field at Mile High                       Grass
+240          Oakland-Alameda County Coliseum                       Grass
+241                                  MetLife                   FieldTurf
+242                  Lincoln Financial Field                       Grass
+243                        U.S. Bank Stadium                  Field Turf
+244                             Georgia Dome                   FieldTurf
+245                         M&T Bank Stadium               Natural Grass
+246                            Soldier Field               Natural Grass
+247                       Paul Brown Stadium       UBU Sports Speed S5-M
+248                            Lambeau Field              DD GrassMaster
+249                           EverBank Field                       Grass
+250                         Gillette Stadium                  Field Turf
+251                  Mercedes-Benz Superdome       UBU Speed Series-S5-M
+252          Oakland-Alameda County Coliseum               Natural Grass
+253            University of Phoenix Stadium                       Grass
+254                              Heinz Field                       Grass
+255                         Qualcomm Stadium                       Grass
+256                        CenturyLink Field                   FieldTurf
+257                                  MetLife                   FieldTurf
+258                        Arrowhead Stadium               Natural Grass
+259                            New Era Field                A-Turf Titan
+260                  Bank of America Stadium               Natural Grass
+261                      FirstEnergy Stadium                       Grass
+262                               Ford Field                  Field Turf
+263                        Lucas Oil Stadium                  Artificial
+264                           EverBank Field                       Grass
+265                        Hard Rock Stadium               Natrual Grass
+266                  Lincoln Financial Field                       Grass
+267                    Raymond James Stadium               Natural Grass
+268                           Nissan Stadium                       Grass
+269                            Levis Stadium               Natural Grass
+270                            Lambeau Field              DD GrassMaster
+271            Los Angeles Memorial Coliseum                       Grass
+272                          MetLife Stadium       UBU Speed Series-S5-M
+273                         Gillette Stadium                  Field Turf
+274                        CenturyLink Field                   FieldTurf
+275                                  MetLife                   FieldTurf
+276                         M&T Bank Stadium                     Natural
+277                            New Era Field                A-Turf Titan
+278                            Soldier Field                       Grass
+279                                     AT&T                  Artificial
+280                              NRG Stadium                  Artificial
+281                        Arrowhead Stadium               Natural Grass
+282                        U.S. Bank Stadium                  Field Turf
+283                          MetLife Stadium       UBU Speed Series-S5-M
+284            University of Phoenix Stadium                       Grass
+285                             Georgia Dome                   FieldTurf
+286      Sports Authority Field at Mile High                       Grass
+287                         Qualcomm Stadium                       Grass
+288                       Paul Brown Stadium       UBU Sports Speed S5-M
+289                               FedExField                       Grass
+290                  Lincoln Financial Field                       Grass
+291                            New Era Field                A-Turf Titan
+292                          Bank of America               Natural Grass
+293                            Soldier Field                       Grass
+294                      FirstEnergy Stadium                       Grass
+295                            Lambeau Field              DD GrassMaster
+296                           EverBank Field                       Grass
+297                         Gillette Stadium                  Field Turf
+298                  Mercedes-Benz Superdome       UBU Speed Series-S5-M
+299          Oakland-Alameda County Coliseum               Natural Grass
+300            Los Angeles Memorial Coliseum                       Grass
+301                        CenturyLink Field                   FieldTurf
+302                              NRG Stadium                  Artificial
+303                              Heinz Field                       Grass
+304                        Arrowhead Stadium               Natural Grass
+305                             AT&T Stadium                  Artificial
+306                             Georgia Dome                   FieldTurf
+307                       Paul Brown Stadium       UBU Sports Speed S5-M
+308                               Ford Field                  Field Turf
+309                        Lucas Oil Stadium                  Artificial
+310                        Hard Rock Stadium               Natrual Grass
+311                        U.S. Bank Stadium                  Field Turf
+312                          MetLife Stadium                   FieldTurf
+313                  Lincoln Financial Field                       Grass
+314                              Heinz Field                       Grass
+315                    Raymond James Stadium               Natural Grass
+316                           Nissan Stadium                       Grass
+317                               FedExField                       Grass
+318      Sports Authority Field at Mile High                       Grass
+319            Los Angeles Memorial Coliseum                       Grass
+320                         Qualcomm Stadium                       Grass
+321                            Levis Stadium               Natural grass
+322                              NRG Stadium                  Artificial
+323                        CenturyLink Field                   FieldTurf
+324                              Heinz Field                       Grass
+325                            Lambeau Field              DD GrassMaster
+326                             Georgia Dome                   FieldTurf
+327                         Gillette Stadium                  Field Turf
+328                        Arrowhead Stadium               Natural Grass
+329                             AT&T Stadium                  Artificial
+330                             Georgia Dome                   FieldTurf
+331                         Gillette Stadium                  Field Turf
+332                              NRG Stadium                  Artificial
+333                    Camping World Stadium  AstroTurf GameDay Grass 3D
+334          Tom Benson Hall of Fame Stadium                  Artificial
+335            University of Phoenix Stadium                       Grass
+336                         M&T Bank Stadium                       Grass
+337                            New Era Field                A-Turf Titan
+338                  Bank of America Stadium               Natural Grass
+339                            Soldier Field                       Grass
+340                       Paul Brown Stadium       UBU Sports Speed S5-M
+341                      FirstEnergy Stadium                       Grass
+342                            Lambeau Field              DD GrassMaster
+343                        Lucas Oil Stadium                  Artificial
+344                        Arrowhead Stadium               Natural Grass
+345                           StubHub Center                       Grass
+346            Los Angeles Memorial Coliseum                       Grass
+347                        Hard Rock Stadium               Natural Grass
+348                         Gillette Stadium                  Field Turf
+349                          MetLife Stadium       UBU Speed Series-S5-M
+350                          MetLife Stadium                   FieldTurf
+351                           Everbank Field                       Grass
+352            University of Phoenix Stadium                       Grass
+353                       Paul Brown Stadium       UBU Sports Speed S5-M
+354                             AT&T Stadium                  Artificial
+355                              NRG Stadium                  Artificial
+356                           StubHub Center                       Grass
+357                        Hard Rock Stadium               Natural Grass
+358          Oakland-Alameda County Coliseum               Natural Grass
+359                  Lincoln Financial Field                       Grass
+360                              Heinz Field                       Grass
+361                            Levis Stadium               Natural Grass
+362                        CenturyLink Field                   FieldTurf
+363                           Nissan Stadium                       Grass
+364                               FedExField                       Grass
+365                               Ford Field                  Field Turf
+366                      FirstEnergy Stadium                       grass
+367                    Mercedes-Benz Stadium               FieldTurf 360
+368                         M&T Bank Stadium               Natural Grass
+369                             AT&T Stadium                  Artificial
+370      Sports Authority Field at Mile High                       Grass
+371                               Ford Field                  Field Turf
+372                           Everbank Field                       Grass
+373                  Mercedes-Benz Superdome       UBU Speed Series S5-M
+374                  Lincoln Financial Field                       Grass
+375                              Heinz Field                       Grass
+376                    Raymond James Stadium               Natural Grass
+377                        CenturyLink Field                   FieldTurf
+378                          MetLife Stadium       UBU Speed Series-S5-M
+379            Los Angeles Memorial Coliseum                       Grass
+380                           Nissan Stadium                       Grass
+381                               FedExField               Natural Grass
+382                        U.S. Bank Stadium                  Field Turf
+383                          MetLife Stadium                   FieldTurf
+384                    Mercedes-Benz Stadium               FieldTurf 360
+385                            New Era Field                A-Turf Titan
+386                  Bank of America Stadium               Natural Grass
+387                            Soldier Field                       Grass
+388      Sports Authority Field at Mile High                       Grass
+389                            Lambeau Field              DD GrassMaster
+390                              NRG Stadium                  Artificial
+391                        Lucas Oil Stadium                  Artificial
+392                        Arrowhead Stadium               Natural Grass
+393                          US Bank Stadium                  Field Turf
+394                         Gillette Stadium                  Field Turf
+395                  Mercedes-Benz Superdome       UBU Speed Series-S5-M
+396          Oakland-Alameda County Coliseum               Natural Grass
+397                            Levis Stadium               Natural grass
+398                    Raymond James Stadium               Natural Grass
+399                         Gillette Stadium                  Field Turf
+400                            New Era Field                A-Turf Titan
+401                            Soldier Field                       Grass
+402                       Paul Brown Stadium       UBU Sports Speed S5-M
+403                              FirstEnergy                       Grass
+404                               Ford Field                  Field Turf
+405                              NRG Stadium                  Artificial
+406                        Hard Rock Stadium               Natural Grass
+407                           Nissan Stadium                       Grass
+408                               FedExField                       Grass
+409            Los Angeles Memorial Coliseum                       Grass
+410                            Lambeau Field              DD GrassMaster
+411                            Levis Stadium               Natural Grass
+412                             AT&T Stadium                  Artificial
+413                        U.S. Bank Stadium                  Field Turf
+414      Sports Authority Field at Mile High                       Grass
+415                       Paul Brown Stadium       UBU Sports Speed S5-M
+416                         M&T Bank Stadium               Natural Grass
+417                  Bank of America Stadium               Natural Grass
+418                        Lucas Oil Stadium                  Artificial
+419                           Everbank Field                       Grass
+420                        Arrowhead Stadium               Natural Grass
+421                  Mercedes-Benz Superdome       UBU Speed Series-S5-M
+422                              Heinz Field                       Grass
+423                    Raymond James Stadium               Natural Grass
+424                           StubHub Center                       Grass
+425          Oakland-Alameda County Coliseum               Natural Grass
+426      Sports Authority Field at Mile High                       Grass
+427            Los Angeles Memorial Coliseum                       Grass
+428                        CenturyLink Field                   FieldTurf
+429                       Mercedes-Benz Dome               FieldTurf 360
+430                          MetLife Stadium       UBU Speed Series-S5-M
+431                            Levis Stadium               Natural grass
+432                          Wembley Stadium                       Grass
+433                            New Era Field                A-Turf Titan
+434                  Bank of America Stadium               Natural Grass
+435                            Soldier Field                       Grass
+436                               Ford Field                  Field Turf
+437                        Lucas Oil Stadium                  Artificial
+438                        U.S. Bank Stadium                  Field Turf
+439                         Gillette Stadium                  Field Turf
+440                          MetLife Stadium                   FieldTurf
+441                  Lincoln Financial Field               Natural Grass
+442                           Nissan Stadium                       Grass
+443                            Lambeau Field              DD GrassMaster
+444                           StubHub Center                       Grass
+445                               FedExField                       Grass
+446            University of Phoenix Stadium                       Grass
+447                            Lambeau Field              DD GrassMaster
+448                          Wembley Stadium                       Grass
+449                    Mercedes-Benz Stadium               FieldTurf 360
+450                              M&T Stadium               Natural Grass
+451                     First Energy Stadium                       Grass
+452                             AT&T Stadium                  Artificial
+453                                      NRG                  Artificial
+454                        U.S. Bank Stadium                  Field Turf
+455                         Gillette Stadium                  Field Turf
+456                                  MetLife                   FieldTurf
+457            University of Phoenix Stadium                       Grass
+458                           StubHub Center                       Grass
+459                    Raymond James Stadium               Natural Grass
+460      Sports Authority Field at Mile High                       Grass
+461                              CenturyLink                   FieldTurf
+462                        Arrowhead Stadium               Natural Grass
+463                    Raymond James Stadium               Natural Grass
+464                       Paul Brown Stadium       UBU Sports Speed S5-M
+465                      FirstEnergy Stadium                       grass
+466                               Ford Field                  Field Turf
+467                        Lucas Oil Stadium                  Artificial
+468                        Hard Rock Stadium               Natural Grass
+469                          MetLife Stadium       UBU Speed Series-S5-M
+470                  Lincoln Financial Field                       Grass
+471                              Heinz Field                       Grass
+472            Los Angeles Memorial Coliseum                       Grass
+473          Oakland-Alameda County Coliseum               Natural Grass
+474                             AT&T Stadium                  Artificial
+475                              NRG Stadium                  Artificial
+476                            Soldier Field                       Grass
+477                  Bank of America Stadium               Natural Grass
+478                    Mercedes-Benz Stadium               FieldTurf 360
+479                              M&T Stadium                     Natural
+480                              NRG Stadium                  Artificial
+481                        U.S. Bank Stadium                  Field Turf
+482                  Mercedes-Benz Superdome       UBU Speed Series-S5-M
+483                                  MetLife                   FieldTurf
+484                               FedExField                       Grass
+485            University of Phoenix Stadium                       Grass
+486                           EverBank Field                       Grass
+487                        Arrowhead Stadium               Natural Grass
+488          Oakland-Alameda County Coliseum               Natural Grass
+489      Sports Authority Field at Mile High                       Grass
+490                           Nissan Stadium                       Grass
+491          Oakland-Alameda County Coliseum               Natural Grass
+492                            New Era Field                A-Turf Titan
+493                            Soldier Field                       Grass
+494                      FirstEnergy Stadium                       Grass
+495                            Lambeau Field              DD GrassMaster
+496                        Lucas Oil Stadium                  Artificial
+497                               Twickenham                       Grass
+498                        Hard Rock Stadium               Natural Grass
+499                        U.S. Bank Stadium                  Field Turf
+500                              Heinz Field                       Grass
+501                            Levis Stadium               Natural Grass
+502                           StubHub Center                       Grass
+503                          MetLife Stadium       UBU Speed Series-S5-M
+504                         Gillette Stadium                  Field Turf
+505                  Lincoln Financial Field                       Grass
+506                         M&T Bank Stadium               Natural Grass
+507                       Twickenham Stadium                       Grass
+508                            New Era Field                A-Turf Titan
+509                       Paul Brown Stadium       UBU Sports Speed S5-M
+510                         Gillette Stadium                  Field Turf
+511                  Mercedes-Benz Superdome       UBU Speed Series-S5-M
+512                                  MetLife                   FieldTurf
+513                  Lincoln Financial Field                       Grass
+514                    Raymond James Stadium               Natural Grass
+515                        CenturyLink Field                   FieldTurf
+516                               FedExField                       Grass
+517                               Ford Field                  Field Turf
+518                        Arrowhead Stadium               Natural Grass
+519                                  MetLife                   FieldTurf
+520                  Bank of America Stadium               Natural Grass
+521                              NRG Stadium                   Artifical
+522                           EverBank Field                       Grass
+523                  Mercedes-Benz Superdome       UBU Speed Series-S5-M
+524                          MetLife Stadium       UBU Speed Series-S5-M
+525                  Lincoln Financial Field                       Grass
+526                           Nissan Stadium                       Grass
+527                            Levis Stadium               Natural grass
+528                        CenturyLink Field                   FieldTurf
+529                             AT&T Stadium                  Artificial
+530                        Hard Rock Stadium               Natural Grass
+531                            Lambeau Field              DD GrassMaster
+532            University of Phoenix Stadium                       Grass
+533                            New Era Field                A-Turf Titan
+534                            Soldier Field                       Grass
+535                               Ford Field                  Field Turf
+536                        Lucas Oil Stadium                  Artificial
+537                           EverBank Field                       Grass
+538                    Raymond James Stadium               Natural Grass
+539                           Nissan Stadium                       Grass
+540                               FedExField                       Grass
+541            Los Angeles Memorial Coliseum                       Grass
+542                    Mercedes-Benz Stadium                FieldTurf360
+543                            Levis Stadium               Natural Grass
+544      Sports Authority Field at Mile High                       Grass
+545                  Bank of America Stadium               Natural Grass
+546                              Heinz Field                       Grass
+547                            Soldier Field                       Grass
+548                      FirstEnergy Stadium                       Grass
+549                            Lambeau Field              DD GrassMaster
+550                              NRG Stadium                   Artifical
+551                        U.S. Bank Stadium                  Field Turf
+552                  Mercedes-Benz Superdome       UBU Speed Series-S5-M
+553                          MetLife Stadium       UBU Speed Series-S5-M
+554                           StubHub Center                       Grass
+555      Sports Authority Field at Mile High                       Grass
+556                           Estadio Azteca               Natural Grass
+557                             AT&T Stadium                  Artificial
+558                        CenturyLink Field                   FieldTurf
+559                               Ford Field                  Field Turf
+560                             AT&T Stadium                  Artificial
+561                               FedExField                       Grass
+562                    Mercedes-Benz Stadium               FieldTurf 360
+563                       Paul Brown Stadium       UBU Sports Speed S5-M
+564                        Lucas Oil Stadium                  Artificial
+565                        Arrowhead Stadium               Natural Grass
+566                         Gillette Stadium                  Field Turf
+567                                  MetLife                   FieldTurf
+568                  Lincoln Financial Field                       Grass
+569            Los Angeles Memorial Coliseum                       Grass
+570                            Levis Stadium               Natural Grass
+571            University of Phoenix Stadium                       Grass
+572          Oakland-Alameda County Coliseum               Natural Grass
+573                              Heinz Field                       Grass
+574                       M & T Bank Stadium               Natural Grass
+575                             AT&T Stadium                  Artificial
+576                    Mercedes-Benz Stadium                FieldTurf360
+577                         M&T Bank Stadium               Natural Grass
+578                            New Era Field                A-Turf Titan
+579                            Soldier Field                       Grass
+580                            Lambeau Field              DD GrassMaster
+581                           EverBank Field                       Grass
+582                        Hard Rock Stadium               Natural Grass
+583                  Mercedes-Benz Superdome       UBU Speed Series-S5-M
+584                                  MetLife                   FieldTurf
+585                           Nissan Stadium                       Grass
+586                           StubHub Center                       Grass
+587            University of Phoenix Stadium                       Grass
+588          Oakland-Alameda County Coliseum               Natural Grass
+589                        CenturyLink Field                   FieldTurf
+590                       Paul Brown Stadium       UBU Sports Speed S5-M
+591                    Mercedes-Benz Stadium               FieldTurf 360
+592                            New Era Field                A-Turf Titan
+593                  Bank of America Stadium               Natural Grass
+594                       Paul Brown Stadium       UBU Sports Speed S5-M
+595                      FirstEnergy Stadium                       Grass
+596                              NRG Stadium                   Artifical
+597                           Everbank Field                       Grass
+598                        Arrowhead Stadium               Natural Grass
+599                    Raymond James Stadium               Natural Grass
+600            University of Phoenix Stadium                       Grass
+601      Sports Authority Field at Mile High                       Grass
+602                           StubHub Center                       Grass
+603            Los Angeles Memorial Coliseum                       Grass
+604                          MetLife Stadium       UBU Speed Series-S5-M
+605                              Heinz Field                       Grass
+606                        Hard Rock Stadium               Natural Grass
+607                        Lucas Oil Stadium                  Artificial
+608                               Ford Field                  Field Turf
+609                        Arrowhead Stadium               Natural Grass
+610                            New Era Field                A-Turf Titan
+611                  Bank of America Stadium               Natural Grass
+612                     First Energy Stadium                       Grass
+613                           Everbank Field                       Grass
+614                        U.S. Bank Stadium                  Field Turf
+615                  Mercedes-Benz Superdome       UBU Speed Series-S5-M
+616                          MetLife Stadium       UBU Speed Series-S5-M
+617                               FedExField                       Grass
+618                        CenturyLink Field                   FieldTurf
+619                              Heinz Field                       Grass
+620                            Levis Stadium               Natural grass
+621          Oakland Alameda-County Coliseum              Naturall Grass
+622                    Raymond James Stadium               Natural Grass
+623                              M&T Stadium               Natural Grass
+624                            Lambeau Field              DD GrassMaster
+625                  Bank of America Stadium               Natural Grass
+626                            Soldier Field                       Grass
+627                       Paul Brown Stadium       UBU Sports Speed S5-M
+628                        Arrowhead Stadium               Natural Grass
+629                         Gillette Stadium                  Field Turf
+630                  Mercedes-Benz Superdome       UBU Speed Series-S5-M
+631                                  MetLife                   FieldTurf
+632                           Nissan Stadium                       Grass
+633                               FedExField                       Grass
+634                            Levis Stadium               Natural grass
+635            University of Phoenix Stadium                       Grass
+636                             AT&T Stadium                  Artificial
+637                              NRG Stadium                  Artificial
+638                  Lincoln Financial Field                       Grass
+639                    Mercedes-Benz Stadium               FieldTurf 360
+640                         M&T Bank Stadium               Natural Grass
+641                               Ford Field                  Field turf
+642                        Lucas Oil Stadium                  Artificial
+643                        Hard Rock Stadium               Natural Grass
+644                        U.S. Bank Stadium                  Field Turf
+645                         Gillette Stadium                  Field Turf
+646                          MetLife Stadium       UBU Speed Series-S5-M
+647                  Lincoln Financial Field                       Grass
+648                              Heinz Field                       Grass
+649                    Raymond James Stadium               Natural Grass
+650                           Nissan Stadium                       Grass
+651      Sports Authority Field at Mile High                       Grass
+652                           StubHub Center                       Grass
+653            Los Angeles Memorial Coliseum                       Grass
+654                        CenturyLink Field                   FieldTurf
+655                        Arrowhead Stadium               Natural Grass
+656            Los Angeles Memorial Coliseum                       Grass
+657                           EverBank Field                       Grass
+658                  Mercedes-Benz Superdome       UBU Speed Series-S5-M
+659                  Lincoln Financial Field                       Grass
+660                         Gillette Stadium                  Field Turf
+661                              Heinz Field                       Grass
+662                        U.S. Bank Stadium                  Field Turf
+663                         Gillette Stadium                  Field Turf
+664                  Lincoln Financial Field                       Grass
+665                        U.S. Bank Stadium                  Field Turf
+666                    Camping World Stadium                        Turf

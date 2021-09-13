@@ -1,0 +1,256 @@
+0                   Outdoor             Field Turf         63.0      77.0  2017090700
+1                  Outdoors           A-Turf Titan         65.0      53.0  2017091000
+2                   Outdoor                  Grass         64.0      57.0  2017091001
+3                   Outdoor  UBU Sports Speed S5-M         68.0      43.0  2017091002
+4                   Outdoor                  Grass         63.0      53.0  2017091003
+5                   Indoors             Field Turf         68.0      70.0  2017091004
+6          Retractable Roof             Artificial         80.0      49.0  2017091005
+7                  Outdoors                  Grass         72.0      50.0  2017091007
+8                  Outdoors                  Grass         67.0      54.0  2017091008
+9                   Outdoor                  Grass         90.0      38.0  2017091009
+10                  Outdoor         DD GrassMaster         71.0      49.0  2017091010
+11                  Outdoor          Natural Grass         87.0      43.0  2017091011
+12                   Indoor             Artificial          NaN       0.0  2017091012
+13                  Indoors             Field Turf         70.0       0.0  2017091100
+14                  Outdoor                  Grass         73.0      39.0  2017091101
+15                  Outdoor  UBU Sports Speed S5-M         69.0      78.0  2017091400
+16                  Outdoor          Natural Grass         80.0      69.0  2017091700
+17                 Outdoors          Natural Grass         83.0      60.0  2017091701
+18        Retr. Roof-Closed             Artificial         78.0      66.0  2017091702
+19                     Open                  Grass         84.0      59.0  2017091703
+20                  Outdoor          Natural Grass         68.0      95.0  2017091704
+21                  Indoors  UBU Speed Series-S5-M         85.0      75.0  2017091705
+22                 Outdoors                  Grass         78.0      64.0  2017091706
+23                  Outdoor          Natural Grass         88.0      62.0  2017091707
+24                      NaN                  Grass         71.0      68.0  2017091708
+25                  Outdoor          Natural Grass         70.0      57.0  2017091709
+26                  Outdoor                  Grass         72.0      41.0  2017091710
+27                  Outdoor                  Grass         76.0      59.0  2017091711
+28                  Outdoor              FieldTurf         65.0      60.0  2017091712
+29        Indoor, Open Roof          FieldTurf 360         78.0      72.0  2017091713
+30                      NaN  UBU Speed Series-S5-M         72.0      80.0  2017091800
+31                  Outdoor          Natural grass         68.0      42.0  2017092100
+32                 Outdoors                  Grass         70.0      51.0  2017092400
+33                 Outdoors           A-Turf Titan         83.0      56.0  2017092401
+34                 Outdoors          Natural Grass         82.0      59.0  2017092402
+35                  Outdoor                  Grass         89.0      48.0  2017092403
+36                  Indoors             Field Turf         68.0      70.0  2017092404
+37      Retr. Roof - Closed             Artificial         83.0      45.0  2017092405
+38                   Indoor             Field Turf          NaN       0.0  2017092406
+39                  Outdoor             Field Turf         84.0      53.0  2017092407
+40                  Outdoor              FieldTurf         88.0      41.0  2017092408
+41                  Outdoor          Natural Grass         89.0      48.0  2017092409
+42                 Outddors                  Grass         88.0      97.0  2017092410
+43                  Outdoor         DD GrassMaster         89.0      44.0  2017092411
+44                      NaN                  Grass         84.0      25.0  2017092412
+45                  Outdoor                  Grass         76.0      75.0  2017092413
+46                     Dome                  Grass          NaN       0.0  2017092500
+47                  Outdoor         DD GrassMaster         65.0      62.0  2017092800
+48                  Outdoor                  Grass         63.0      64.0  2017100100
+49            Domed, closed          FieldTurf 360          NaN       0.0  2017100101
+50                  Outdoor          Natural Grass         64.0      52.0  2017100102
+51                  Outdoor                  Grass         63.0      37.0  2017100103
+52                   Indoor             Artificial          NaN       0.0  2017100104
+53         Retractable Roof             Artificial         87.0      53.0  2017100105
+54                   Indoor             Field Turf          NaN       0.0  2017100106
+55                  Outdoor             Field Turf         61.0      43.0  2017100107
+56                  Outdoor              FieldTurf         64.0      44.0  2017100108
+57                     Dome                  Grass          NaN       0.0  2017100109
+58                      NaN                  Grass         72.0      70.0  2017100110
+59                  Outdoor          Natural Grass         91.0      51.0  2017100111
+60                  Outdoor                  Grass         72.0      26.0  2017100112
+61                  Outdoor              FieldTurf         61.0      54.0  2017100113
+62                  Outdoor          Natural Grass         82.0      55.0  2017100200
+63                  Outdoor          Natural Grass         76.0      94.0  2017100500
+64                  Outdoor  UBU Sports Speed S5-M         63.0      90.0  2017100800
+65                  Outdoor                  grass         67.0      71.0  2017100801
+66                  Indoors             Field Turf         68.0      70.0  2017100802
+67        Retr. Roof-Closed             Artificial         68.0      60.0  2017100803
+68                  Outdoor          Natural Grass         89.0      67.0  2017100804
+69                      NaN  UBU Speed Series-S5-M         76.0      90.0  2017100805
+70                  Outdoor                  Grass         77.0      91.0  2017100806
+71                 Outdoors                  Grass         73.0      80.0  2017100807
+72                  Outdoor                  Grass         78.0      50.0  2017100808
+73                  Outdoor          Natural Grass         72.0      42.0  2017100809
+74                   Indoor             Artificial          NaN       0.0  2017100810
+75         Retractable Roof             Artificial         89.0      59.0  2017100811
+76                  Outdoor                  Grass         70.0      69.0  2017100900
+77                 Outdoors          Natural Grass         72.0      88.0  2017101200
+78      Indoor, Roof Closed          FieldTurf 360          NaN       0.0  2017101500
+79                  Outdoor                Natural         69.0      87.0  2017101501
+80         Retractable Roof             Artificial         85.0      62.0  2017101502
+81                   Indoor             Field Turf          NaN       0.0  2017101503
+82                  Indoors  UBU Speed Series-S5-M         84.0      80.0  2017101504
+83                  Outdoor              FieldTurf         73.0      70.0  2017101505
+84                  Outdoor                  Grass         68.0      85.0  2017101506
+85                     Dome                  Grass          NaN       0.0  2017101507
+86                     Open                  Grass         88.0      68.0  2017101508
+87                  Outdoor          Natural Grass         60.0      56.0  2017101509
+88                  Outdoor          Natural Grass         76.0      25.0  2017101510
+89                  Outdoor                  Grass         61.0      17.0  2017101511
+90                 Outdoors                  Grass         57.0      55.0  2017101600
+91                  Outdoor          Natural Grass         62.0      78.0  2017101900
+92                 Outdoors           A-Turf Titan         74.0      45.0  2017102200
+93                  Outdoor                  Grass         70.0      71.0  2017102201
+94                  Outdoor                  Grass         74.0      56.0  2017102202
+95                  Outdoor         DD GrassMaster         52.0     100.0  2017102203
+96        Retr. Roof Closed             Artificial         72.0      59.0  2017102204
+97                  Outdoor                  Grass         54.0      72.0  2017102205
+98                  Outdoor          Natural Grass         86.0      67.0  2017102206
+99                   Indoor             Field Turf          NaN       0.0  2017102207
+100                Outdoors                  Grass         79.0      37.0  2017102208
+101                 Outdoor          Natural Grass         68.0      60.0  2017102209
+102                     NaN                  Grass         90.0      15.0  2017102210
+103                     NaN  UBU Speed Series-S5-M         75.0      29.0  2017102211
+104                 Outdoor             Field Turf         56.0      88.0  2017102212
+105                 Outdoor                  Grass         70.0      78.0  2017102300
+106                 Outdoor          Natural Grass         56.0      49.0  2017102600
+107                Outdoors                  Grass         56.0      56.0  2017102900
+108                Outdoors           A-Turf Titan         42.0      94.0  2017102901
+109                 Outdoor  UBU Sports Speed S5-M         39.0      68.0  2017102902
+110                 Outdoor             Field Turf         62.0      84.0  2017102903
+111                 Indoors  UBU Speed Series-S5-M         54.0      47.0  2017102904
+112                 Outdoor              FieldTurf         63.0      93.0  2017102905
+113                 Outdoor                  Grass         67.0      91.0  2017102906
+114                 Outdoor          Natural Grass         63.0      63.0  2017102907
+115                 Outdoor              FieldTurf         50.0      90.0  2017102908
+116                 Outdoor                  Grass         60.0      93.0  2017102909
+117                 Indoors             Field Turf         68.0      70.0  2017102910
+118                 Outdoor          Natural Grass         44.0      41.0  2017103000
+119                 Outdoor              FieldTurf         68.0      70.0  2017110200
+120                Outdoors          Natural Grass         61.0      86.0  2017110500
+121        Retractable Roof              Artifical         84.0      62.0  2017110501
+122                    Open                  Grass         78.0      74.0  2017110502
+123                 Indoors  UBU Speed Series-S5-M         79.0      67.0  2017110503
+124                     NaN  UBU Speed Series-S5-M         56.0      92.0  2017110504
+125                 Outdoor                  Grass         61.0      89.0  2017110505
+126                Outdoors                  Grass         75.0      66.0  2017110506
+127                 Outdoor          Natural grass         61.0      48.0  2017110507
+128                 Outdoor              FieldTurf         36.0      86.0  2017110508
+129                  Indoor             Artificial          NaN       0.0  2017110509
+130                 Outdoor          Natural Grass         77.0      82.0  2017110510
+131                 Outdoor         DD GrassMaster         35.0      58.0  2017110600
+132  Outdoor Retr Roof-Open                  Grass         79.0      32.0  2017110900
+133                Outdoors           A-Turf Titan         42.0      50.0  2017111200
+134                 Outdoor                  Grass         39.0      89.0  2017111201
+135                 Indoors             Field Turf         68.0      70.0  2017111202
+136     Retr. Roof - Closed             Artificial         42.0      70.0  2017111203
+137                    Open                  Grass         76.0      75.0  2017111204
+138                 Outdoor          Natural Grass         79.0      69.0  2017111205
+139                Outdoors                  Grass         53.0      88.0  2017111206
+140                 Outdoor                  Grass         44.0      44.0  2017111207
+141                 Outdoor                  Grass         68.0      63.0  2017111208
+142             Closed Dome           FieldTurf360          NaN       0.0  2017111209
+143                 Outdoor          Natural Grass         68.0      46.0  2017111210
+144                  Oudoor                  Grass         48.0      40.0  2017111211
+145                Outdoors          Natural Grass         49.0      66.0  2017111300
+146                Outdoors                  Grass         40.0      67.0  2017111600
+147                 Outdoor                  Grass         33.0      60.0  2017111900
+148                 Outdoor                  Grass         38.0      68.0  2017111901
+149                 Outdoor         DD GrassMaster         28.0      63.0  2017111902
+150        Retractable Roof              Artifical         60.0      31.0  2017111903
+151                  Indoor             Field Turf          NaN       0.0  2017111904
+152                 Indoors  UBU Speed Series-S5-M         57.0      44.0  2017111905
+153                     NaN  UBU Speed Series-S5-M         50.0      44.0  2017111906
+154                     NaN                  Grass         76.0      24.0  2017111907
+155                 Outdoor                  Grass         60.0      10.0  2017111908
+156                 Outdoor          Natural Grass         66.0      42.0  2017111909
+157                Outdoors             Artificial         54.0      36.0  2017111910
+158                 Ourdoor          Natural Grass         81.0      51.0  2017111911
+159                 Outdoor              FieldTurf         45.0      85.0  2017112000
+160                 Indoors             Field Turf         68.0      70.0  2017112300
+161                  Indoor             Artificial          NaN       0.0  2017112301
+162                 Outdoor                  Grass         33.0      67.0  2017112302
+163            Dome, closed          FieldTurf 360          NaN       0.0  2017112600
+164                 Outdoor  UBU Sports Speed S5-M         46.0      52.0  2017112601
+165         Retr. Roof-Open             Artificial         47.0      51.0  2017112602
+166                 Outdoor          Natural Grass         62.0      36.0  2017112603
+167                 Outdoor             Field Turf         47.0      37.0  2017112604
+168                 Outdoor              FieldTurf         47.0      42.0  2017112605
+169                 Outdoor                  Grass         49.0      42.0  2017112606
+170                 Outdoor                  Grass         72.0      56.0  2017112607
+171                 Outdoor          Natural Grass         66.0      68.0  2017112608
+172                    Dome                  Grass          NaN       0.0  2017112609
+173                 Outdoor          Natural Grass         61.0      95.0  2017112610
+174                Outdoors                  Grass         38.0      47.0  2017112611
+175                 Outdoor          Natural Grass         50.0      60.0  2017112700
+176                 Outdoor             Artificial         58.0      56.0  2017113000
+177           Domed, closed           FieldTurf360          NaN       0.0  2017120300
+178                 Outdoor          Natural Grass         53.0      70.0  2017120301
+179                Outdoors           A-Turf Titan         48.0      73.0  2017120302
+180                 Outdoor                  Grass         54.0      44.0  2017120303
+181                 Outdoor         DD GrassMaster         42.0      67.0  2017120304
+182                    Open                  Grass         70.0      74.0  2017120305
+183                 Outdoor          Natural Grass         80.0      58.0  2017120306
+184                 Indoors  UBU Speed Series-S5-M         69.0      66.0  2017120307
+185                 Outdoor              FieldTurf         48.0      64.0  2017120308
+186                Outdoors                  Grass         60.0      39.0  2017120309
+187                     NaN                  Grass         68.0      63.0  2017120310
+188                    Dome                  Grass          NaN       0.0  2017120311
+189                 Outdoor          Natural Grass         58.0      51.0  2017120312
+190                 Outdoor              FieldTurf         44.0      78.0  2017120313
+191                 Outdoor  UBU Sports Speed S5-M         61.0      44.0  2017120400
+192             Closed Dome          FieldTurf 360          NaN       0.0  2017120700
+193                Outdoors           A-Turf Titan         32.0      69.0  2017121000
+194                Outdoors          Natural Grass         41.0      49.0  2017121001
+195                 Outdoor  UBU Sports Speed S5-M         31.0      64.0  2017121002
+196                 Outdoor                  Grass         29.0      58.0  2017121003
+197        Retractable Roof              Artifical          NaN      30.0  2017121004
+198                    Open                  Grass         54.0       0.0  2017121005
+199                 Outdoor          Natural Grass         46.0      35.0  2017121006
+200                 Outdoor          Natural Grass         55.0      44.0  2017121007
+201                    Dome                  Grass         79.0       7.0  2017121008
+202                 Outdoor                  Grass         60.0       8.0  2017121009
+203                     NaN                  Grass         81.0      10.0  2017121010
+204                 Outdoor                  Grass         83.0       8.0  2017121011
+205                     NaN  UBU Speed Series-S5-M         39.0      55.0  2017121012
+206             Heinz Field                  Grass         33.0      55.0  2017121013
+207                 Outdoor          Natural Grass         55.0      59.0  2017121100
+208     Retr. Roof - Closed             Artificial         25.0      62.0  2017121400
+209                 Indoors             Field Turf         68.0      70.0  2017121600
+210                 Outdoor          Natural Grass         53.0      36.0  2017121601
+211                Outdoors           A-Turf Titan         22.0      71.0  2017121700
+212                Outdoors          Natural Grass         51.0      55.0  2017121701
+213                 Outdoor                  Grass         36.0      78.0  2017121702
+214                    Open                  Grass         72.0      55.0  2017121703
+215                  Indoor             Field Turf          NaN       0.0  2017121704
+216                 Indoors  UBU Speed Series-S5-M         67.0      97.0  2017121705
+217                     NaN  UBU Speed Series-S5-M         35.0      58.0  2017121706
+218                 Outdoor                  Grass         50.0      47.0  2017121707
+219                 Outdoor              FieldTurf         47.0      88.0  2017121708
+220                Outdoors                  Grass         42.0      62.0  2017121709
+221                 Outdoor          Natural grass         65.0      17.0  2017121710
+222                  Outdor         Naturall Grass         57.0      37.0  2017121711
+223                 Outdoor          Natural Grass         71.0      85.0  2017121800
+224                 Outdoor          Natural Grass         63.0      78.0  2017122300
+225                 Outdoor         DD GrassMaster         10.0      67.0  2017122301
+226                Outdoors          Natural Grass         55.0      63.0  2017122400
+227                 Outdoor                  Grass         24.0      83.0  2017122401
+228                 Outdoor  UBU Sports Speed S5-M         35.0      76.0  2017122402
+229                 Outdoor          Natural Grass         23.0      71.0  2017122403
+230                 Outdoor             Field Turf         35.0      67.0  2017122404
+231                 Indoors  UBU Speed Series-S5-M         56.0      71.0  2017122405
+232                 Outdoor              FieldTurf         40.0      55.0  2017122406
+233                Outdoors                  Grass         39.0      90.0  2017122407
+234                 Outdoor                  Grass         43.0      59.0  2017122408
+235                 Outdoor          Natural grass         52.0      64.0  2017122409
+236                    Dome                  Grass         71.0      14.0  2017122410
+237                 Indoors             Artificial          NaN       0.0  2017122411
+238        Retractable Roof             Artificial         51.0      56.0  2017122500
+239                 Outdoor                  Grass         29.0      37.0  2017122501
+240            Dome, closed          FieldTurf 360          NaN       0.0  2017123100
+241                 Outdoor          Natural Grass         19.0      36.0  2017123101
+242                 Indoors             Field turf         68.0      70.0  2017123102
+243       Retr. Roof-Closed             Artificial          9.0      66.0  2017123103
+244                 Outdoor          Natural Grass         71.0      66.0  2017123104
+245                 Indoors             Field Turf          NaN       0.0  2017123105
+246                 Outdoor             Field Turf         13.0      42.0  2017123106
+247                     NaN  UBU Speed Series-S5-M         16.0      42.0  2017123107
+248                 Outdoor                  Grass         19.0      30.0  2017123108
+249                Outdoors                  Grass         11.0      80.0  2017123109
+250                 Outdoor          Natural Grass         71.0      49.0  2017123110
+251                Outdoors                  Grass         23.0      45.0  2017123111
+252                 Outdoor                  Grass         17.0      76.0  2017123112
+253                     NaN                  Grass         62.0      70.0  2017123113
+254                 Outdoor                  Grass         67.0      43.0  2017123114
+255                 Outdoor              FieldTurf         40.0      78.0  2017123115

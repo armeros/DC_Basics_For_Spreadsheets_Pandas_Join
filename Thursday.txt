@@ -1,0 +1,93 @@
+0         3         2016     2   8/11/2016  Thursday        Baltimore
+1         5         2016     2   8/11/2016  Thursday          Chicago
+2         9         2016     2   8/11/2016  Thursday  East Rutherford
+3        12         2016     2   8/11/2016  Thursday       Foxborough
+4        16         2016     2   8/11/2016  Thursday     Philadelphia
+5        17         2016     2   8/11/2016  Thursday          Atlanta
+6        19         2016     3   8/18/2016  Thursday        Cleveland
+7        22         2016     3   8/18/2016  Thursday       Foxborough
+8        23         2016     3   8/18/2016  Thursday          Detroit
+9        26         2016     3   8/18/2016  Thursday          Seattle
+10       30         2016     3   8/18/2016  Thursday        Green Bay
+11       31         2016     3   8/18/2016  Thursday       Pittsburgh
+12       39         2016     4   8/25/2016  Thursday          Seattle
+13       48         2016     4   8/25/2016  Thursday          Orlando
+14       50         2016     5    9/1/2016  Thursday          Atlanta
+15       51         2016     5    9/1/2016  Thursday      Minneapolis
+16       52         2016     5    9/1/2016  Thursday  East Rutherford
+17       53         2016     5    9/1/2016  Thursday     Philadelphia
+18       54         2016     5    9/1/2016  Thursday        Charlotte
+19       55         2016     5    9/1/2016  Thursday        San Diego
+20       56         2016     5    9/1/2016  Thursday          Oakland
+21       57         2016     5    9/1/2016  Thursday    Miami Gardens
+22       59         2016     5    9/1/2016  Thursday      New Orleans
+23       60         2016     5    9/1/2016  Thursday          Detroit
+24       61         2016     5    9/1/2016  Thursday        Cleveland
+25       62         2016     5    9/1/2016  Thursday         Glendale
+26       63         2016     5    9/1/2016  Thursday      Kansas City
+27       64         2016     5    9/1/2016  Thursday        Arlington
+28       65         2016     5    9/1/2016  Thursday       Cincinnati
+29       66         2016     1    9/8/2016  Thursday           Denver
+30       82         2016     2   9/15/2016  Thursday     Orchard Park
+31       98         2016     3   9/22/2016  Thursday       Foxborough
+32      114         2016     4   9/29/2016  Thursday       Cincinnati
+33      129         2016     5   10/6/2016  Thursday      Santa Clara
+34      143         2016     6  10/13/2016  Thursday        San Diego
+35      158         2016     7  10/20/2016  Thursday        Green Bay
+36      173         2016     8  10/27/2016  Thursday        Nashville
+37      186         2016     9   11/3/2016  Thursday        Tampa Bay
+38      199         2016    10  11/10/2016  Thursday        Baltimore
+39      213         2016    11  11/17/2016  Thursday        Charlotte
+40      227         2016    12  11/24/2016  Thursday          Detroit
+41      228         2016    12  11/24/2016  Thursday        Arlington
+42      229         2016    12  11/24/2016  Thursday     Indianapolis
+43      243         2016    13   12/1/2016  Thursday      Minneapolis
+44      258         2016    14   12/8/2016  Thursday      Kansas City
+45      274         2016    15  12/15/2016  Thursday          Seattle
+46      290         2016    16  12/22/2016  Thursday     Philadelphia
+47      334         2017     1    8/3/2017  Thursday           Canton
+48      336         2017     2   8/10/2017  Thursday        Baltimore
+49      337         2017     2   8/10/2017  Thursday     Orchard Park
+50      339         2017     2   8/10/2017  Thursday          Chicago
+51      341         2017     2   8/10/2017  Thursday        Cleveland
+52      342         2017     2   8/10/2017  Thursday        Green Bay
+53      347         2017     2   8/10/2017  Thursday    Miami Gardens
+54      348         2017     2   8/10/2017  Thursday       Foxborough
+55      351         2017     3   8/17/2017  Thursday     Jacksonville
+56      357         2017     3   8/17/2017  Thursday    Miami Gardens
+57      359         2017     3   8/17/2017  Thursday     Philadelphia
+58      372         2017     4   8/24/2017  Thursday     Jacksonville
+59      374         2017     4   8/24/2017  Thursday     Philadelphia
+60      383         2017     5   8/31/2017  Thursday  East Rutherford
+61      384         2017     5   8/31/2017  Thursday          Atlanta
+62      385         2017     5   8/31/2017  Thursday     Orchard Park
+63      386         2017     5   8/31/2017  Thursday        Charlotte
+64      387         2017     5   8/31/2017  Thursday          Chicago
+65      388         2017     5   8/31/2017  Thursday           Denver
+66      389         2017     5   8/31/2017  Thursday        Green Bay
+67      390         2017     5   8/31/2017  Thursday          Houston
+68      391         2017     5   8/31/2017  Thursday     Indianapolis
+69      392         2017     5   8/31/2017  Thursday      Kansas City
+70      393         2017     5   8/31/2017  Thursday      Minneapolis
+71      394         2017     5   8/31/2017  Thursday       Foxborough
+72      395         2017     5   8/31/2017  Thursday      New Orleans
+73      396         2017     5   8/31/2017  Thursday          Oakland
+74      397         2017     5   8/31/2017  Thursday      Santa Clara
+75      398         2017     5   8/31/2017  Thursday        Tampa Bay
+76      399         2017     1    9/7/2017  Thursday       Foxborough
+77      415         2017     2   9/14/2017  Thursday       Cincinnati
+78      431         2017     3   9/21/2017  Thursday      Santa Clara
+79      447         2017     4   9/28/2017  Thursday        Green Bay
+80      463         2017     5   10/5/2017  Thursday        Tampa Bay
+81      477         2017     6  10/12/2017  Thursday        Charlotte
+82      491         2017     7  10/19/2017  Thursday          Oakland
+83      506         2017     8  10/26/2017  Thursday        Baltimore
+84      519         2017     9   11/2/2017  Thursday  East Rutherford
+85      532         2017    10   11/9/2017  Thursday         Glendale
+86      546         2017    11  11/16/2017  Thursday       Pittsburgh
+87      559         2017    12  11/23/2017  Thursday          Detroit
+88      560         2017    12  11/23/2017  Thursday        Arlington
+89      561         2017    12  11/23/2017  Thursday         Landover
+90      575         2017    13  11/30/2017  Thursday        Arlington
+91      591         2017    14   12/7/2017  Thursday          Atlanta
+92      607         2017    15  12/14/2017  Thursday  

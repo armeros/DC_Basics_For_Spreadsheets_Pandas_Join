@@ -1,0 +1,257 @@
+,StadiumType,Turf,Temperature,Humidity,GameId
+0,Outdoor,Grass,81.0,71.0,2018090600
+1,Outdoor,Natural Grass,61.0,97.0,2018090900
+2,Outdoor,Grass,58.0,84.0,2018090901
+3,Retr. Roof - Closed,Artificial,59.0,91.0,2018090902
+4,Outdoor,Natural Grass,89.0,63.0,2018090903
+5,Indoors,Field Turf,,0.0,2018090904
+6,Outdoor,Field Turf,62.0,61.0,2018090905
+7,Indoors,UBU Speed Series-S5-M,86.0,67.0,2018090906
+8,,UBU Speed Series-S5-M,59.0,85.0,2018090907
+9,,Grass,84.0,52.0,2018090908
+10,Dome,Grass,,0.0,2018090909
+11,Outdoors,Natural Grass,81.0,74.0,2018090910
+12,Outdoor,Grass,84.0,17.0,2018090911
+13,Outdoor,SISGrass,62.0,65.0,2018090912
+14,Indoors,Field Turf,68.0,70.0,2018091000
+15,Outdoor,Grass,69.0,58.0,2018091001
+16,Outdoor,Twenty-Four/Seven Turf,82.0,54.0,2018091300
+17,"Domed, closed",FieldTurf360,,0.0,2018091600
+18,Outdoors,A-Turf Titan,83.0,63.0,2018091601
+19,Outdoor,SISGrass,80.0,71.0,2018091602
+20,Indoors,UBU Speed Series-S5-M,90.0,68.0,2018091603
+21,Outdoor,FieldTurf,80.0,63.0,2018091604
+22,Outdoors,Grass,80.0,65.0,2018091605
+23,Outdoor,Natural Grass,91.0,65.0,2018091606
+24,Outdoors,Grass,81.0,63.0,2018091607
+25,Outdoor,Grass,71.0,88.0,2018091608
+26,Outdoor,Grass,86.0,35.0,2018091609
+27,Outdoor,Natural Grass,73.0,0.0,2018091610
+28,Outdoor,Grass,92.0,13.0,2018091611
+29,Open,Grass,97.0,46.0,2018091612
+30,Indoors,Artificial,,0.0,2018091613
+31,Outdoor,Natural Grass,79.0,62.0,2018091700
+32,Outdoor,Grass,83.0,64.0,2018092000
+33,"Domed, closed",FieldTurf360,,0.0,2018092300
+34,Outdoor,Natural Grass,61.0,91.0,2018092301
+35,Outdoors,Natural Grass,80.0,69.0,2018092302
+36,Retractable Roof,Artificial,78.0,72.0,2018092303
+37,Outdoor,Grass,89.0,61.0,2018092304
+38,Outdoor,Natural Grass,70.0,64.0,2018092305
+39,Outdoor,Natural Grass,90.0,58.0,2018092306
+40,Indoors,Field Turf,,0.0,2018092307
+41,Outdoor,Grass,61.0,92.0,2018092308
+42,Outdoor,Grass,62.0,96.0,2018092309
+43,Outdoor,Grass,80.0,50.0,2018092310
+44,Dome,Grass,,0.0,2018092311
+45,Outdoor,FieldTurf,61.0,59.0,2018092312
+46,Indoors,Field Turf,68.0,70.0,2018092313
+47,Outdoor,Natural Grass,77.0,89.0,2018092400
+48,Outdoor,Grass,75.0,68.0,2018092700
+49,"Domed, closed",FieldTurf360,,,2018093000
+50,Outdoor,Natural Grass,66.0,62.0,2018093001
+51,Indoors,Artificial,,,2018093002
+52,Outdoor,SISGrass,49.0,79.0,2018093003
+53,Retr. Roof - Open,Artificial,73.0,65.0,2018093004
+54,Outdoor,Grass,86.0,70.0,2018093005
+55,Outdoor,Field Turf,65.0,48.0,2018093006
+56,Outdoors,Grass,80.0,56.0,2018093007
+57,Dome,Grass,,,2018093008
+58,Outdoor,Natural Grass,71.0,58.0,2018093009
+59,,Grass,78.0,56.0,2018093010
+60,,UBU Speed Series-S5-M,71.0,54.0,2018093011
+61,Outdoors,Grass,69.0,86.0,2018093012
+62,Outdoor,Grass,65.0,51.0,2018100100
+63,Outdoor,Field Turf,66.0,96.0,2018100400
+64,Outdoors,A-Turf Titan,62.0,96.0,2018100700
+65,Outdoors,Natural Grass,80.0,83.0,2018100701
+66,Outdoor,Twenty-Four/Seven Turf,87.0,52.0,2018100702
+67,Outdoor,Grass,72.0,89.0,2018100703
+68,Indoors,Field Turf,68.0,70.0,2018100704
+69,Outdoor,Natural Grass,58.0,90.0,2018100705
+70,Outdoor,FieldTurf,77.0,79.0,2018100706
+71,Outdoors,Grass,83.0,69.0,2018100707
+72,,Grass,75.0,60.0,2018100708
+73,Outdoor,Grass,79.0,77.0,2018100709
+74,Outdoor,Natural Grass,79.0,19.0,2018100710
+75,Outdoor,FieldTurf,53.0,79.0,2018100711
+76,Retractable Roof,Artificial,83.0,70.0,2018100712
+77,Indoors,UBU Speed Series-S5-M,84.0,70.0,2018100800
+78,,UBU Speed Series-S5-M,70.0,98.0,2018101100
+79,"Domed, Open",FieldTurf360,,0.0,2018101400
+80,Outdoor,Twenty-Four/Seven Turf,51.0,93.0,2018101401
+81,Outdoor,Grass,51.0,61.0,2018101402
+82,Retractable Roof,Artificial,87.0,60.0,2018101403
+83,Outdoor,Natural Grass,89.0,67.0,2018101404
+84,Indoors,Field Turf,,0.0,2018101405
+85,Outdoor,FieldTurf,60.0,53.0,2018101406
+86,Outdoors,Grass,52.0,93.0,2018101407
+87,Outdoor,Grass,52.0,74.0,2018101408
+88,Outdoor,Grass,25.0,76.0,2018101409
+89,Indoors,Artificial,,0.0,2018101410
+90,Outdoors,Grass,66.0,100.0,2018101411
+91,Outdoor,Field Turf,45.0,85.0,2018101412
+92,Outdoor,SISGrass,37.0,55.0,2018101500
+93,Dome,Grass,82.0,27.0,2018101800
+94,Outdoors,Grass,66.0,75.0,2018102100
+95,Outdoor,Natural Grass,54.0,34.0,2018102101
+96,Outdoor,Natural Grass,44.0,42.0,2018102102
+97,Retr. Roof - Closed,Artificial,44.0,56.0,2018102103
+98,,Grass,68.0,54.0,2018102104
+99,Outdoor,Natural Grass,59.0,42.0,2018102105
+100,Outdoor,Natural Grass,89.0,51.0,2018102106
+101,Outdoor,FieldTurf,46.0,48.0,2018102107
+102,Outdoor,Grass,49.0,41.0,2018102108
+103,Outdoor,Natural Grass,79.0,64.0,2018102109
+104,Outdoor,Grass,52.0,43.0,2018102110
+105,Outdoor,Natural Grass,62.0,69.0,2018102111
+106,"Domed, open",FieldTurf360,60.0,49.0,2018102200
+107,Retractable Roof,Artificial,66.0,70.0,2018102500
+108,Outdoors,Grass,48.0,59.0,2018102800
+109,Outdoors,Natural Grass,61.0,65.0,2018102801
+110,Outdoor,Natural Grass,48.0,71.0,2018102802
+111,Outdoor,Twenty-Four/Seven Turf,55.0,77.0,2018102803
+112,Indoors,Field Turf,68.0,70.0,2018102804
+113,Outdoor,Natural Grass,56.0,45.0,2018102805
+114,,UBU Speed Series-S5-M,51.0,73.0,2018102806
+115,Outdoors,Grass,47.0,79.0,2018102807
+116,Outdoor,Natural Grass,69.0,67.0,2018102808
+117,Dome,Grass,,0.0,2018102809
+118,Outdoor,Grass,82.0,39.0,2018102810
+119,Indoors,Field Turf,,0.0,2018102811
+120,Outdoors,A-Turf Titan,46.0,58.0,2018102900
+121,Outdoor,Natural Grass,82.0,28.0,2018110100
+122,Outdoor,Natural Grass,55.0,45.0,2018110400
+123,Outdoors,A-Turf Titan,49.0,56.0,2018110401
+124,Outdoors,Natural Grass,62.0,47.0,2018110402
+125,Outdoor,Grass,53.0,49.0,2018110403
+126,Outdoor,Natural Grass,87.0,62.0,2018110404
+127,Indoors,Field Turf,,,2018110405
+128,Outdoor,Grass,55.0,46.0,2018110406
+129,Outdoor,Grass,53.0,34.0,2018110407
+130,Outdoor,FieldTurf,56.0,78.0,2018110408
+131,Indoors,UBU Speed Series-S5-M,77.0,62.0,2018110409
+132,Outdoor,Field Turf,40.0,76.0,2018110410
+133,Indoor,Artificial,74.0,58.0,2018110500
+134,Outdoors,Grass,40.0,76.0,2018110800
+135,Outdoor,Grass,37.0,52.0,2018111100
+136,Outdoor,Twenty-Four/Seven Turf,39.0,51.0,2018111101
+137,Outdoor,Grass,36.0,56.0,2018111102
+138,Outdoor,SISGrass,33.0,66.0,2018111103
+139,Retr. Roof-Closed,Artificial,38.0,46.0,2018111104
+140,Outdoor,Natural Grass,43.0,51.0,2018111105
+141,Outdoor,FieldTurf,46.0,39.0,2018111106
+142,Outdoor,Natural Grass,82.0,59.0,2018111107
+143,Outdoors,Grass,46.0,42.0,2018111108
+144,Outdoor,Natural Grass,69.0,15.0,2018111109
+145,Outdoor,Grass,75.0,20.0,2018111110
+146,Outdoor,Grass,38.0,62.0,2018111111
+147,Outdoor,Natural Grass,62.0,22.0,2018111200
+148,Outdoor,FieldTurf,54.0,69.0,2018111500
+149,"Domed, open",FieldTurf360,59.0,57.0,2018111800
+150,Outdoor,Natural Grass,48.0,58.0,2018111801
+151,Outdoor,Natural Grass,33.0,77.0,2018111802
+152,Indoors,Field Turf,69.0,70.0,2018111803
+153,Retr. Roof-Closed,Artificial,42.0,81.0,2018111804
+154,,UBU Speed Series-S5-M,42.0,54.0,2018111805
+155,Outdoor,Grass,48.0,56.0,2018111806
+156,Dome,Grass,72.0,20.0,2018111807
+157,,Grass,69.0,67.0,2018111808
+158,Dome,UBU Speed Series-S5-M,68.0,54.0,2018111809
+159,Open,Grass,73.0,60.0,2018111810
+160,Outdoor,Grass,65.0,56.0,2018111900
+161,Indoors,Field Turf,68.0,70.0,2018112200
+162,Indoor,Artificial,,0.0,2018112201
+163,Dome,UBU Speed Series-S5-M,53.0,72.0,2018112202
+164,Outdoor,Natural Grass,60.0,54.0,2018112500
+165,Outdoors,A-Turf Titan,44.0,79.0,2018112501
+166,Outdoors,Natural Grass,57.0,63.0,2018112502
+167,Outdoor,Twenty-Four/Seven Turf,44.0,100.0,2018112503
+168,Retr. Roof - Closed,Artificial,57.0,74.0,2018112504
+169,Outdoor,FieldTurf,54.0,64.0,2018112505
+170,Outdoor,Grass,56.0,58.0,2018112506
+171,Outdoor,Natural Grass,77.0,62.0,2018112507
+172,,Grass,74.0,52.0,2018112508
+173,Outdoor,Grass,41.0,26.0,2018112509
+174,Indoors,Field Turf,,0.0,2018112510
+175,Retractable Roof,Artificial,51.0,35.0,2018112600
+176,Indoor,Artificial,70.0,59.0,2018112900
+177,"Domed, open",FieldTurf360,67.0,44.0,2018120200
+178,Outdoor,Twenty-Four/Seven Turf,63.0,49.0,2018120201
+179,Indoors,Field Turf,68.0,70.0,2018120202
+180,Outdoor,SISGrass,34.0,92.0,2018120203
+181,Retractable Roof,Artificial,72.0,28.0,2018120204
+182,Cloudy,Grass,78.0,0.0,2018120205
+183,Outdoor,Natural Grass,86.0,68.0,2018120206
+184,,UBU Speed Series-S5-M,52.0,92.0,2018120207
+185,Outdoors,Grass,57.0,55.0,2018120208
+186,Outdoor,Natural Grass,81.0,75.0,2018120209
+187,Outdoor,Natural Grass,57.0,52.0,2018120210
+188,Outdoors,Grass,70.0,26.0,2018120211
+189,Outdoor,Field Turf,53.0,100.0,2018120212
+190,Outdoor,FieldTurf,45.0,81.0,2018120213
+191,Outdoor,Grass,36.0,58.0,2018120300
+192,Outdoors,Grass,44.0,43.0,2018120600
+193,Outdoors,A-Turf Titan,31.0,63.0,2018120900
+194,Outdoor,Natural Grass,29.0,70.0,2018120901
+195,Outdoor,Grass,28.0,60.0,2018120902
+196,Outdoor,SISGrass,25.0,70.0,2018120903
+197,Retractable Roof,Artifical,46.0,76.0,2018120904
+198,Outdoor,Natural Grass,27.0,72.0,2018120905
+199,Outdoor,Natural Grass,82.0,79.0,2018120906
+200,Outdoor,Natural Grass,71.0,91.0,2018120907
+201,Outdoor,Grass,33.0,57.0,2018120908
+202,,Grass,71.0,42.0,2018120909
+203,Outdoor,Natural Grass,54.0,72.0,2018120910
+204,Dome,Grass,70.0,41.0,2018120911
+205,Indoor,Artificial,,0.0,2018120912
+206,Outdoor,Natural Grass,55.0,74.0,2018120913
+207,Outdoor,FieldTurf,48.0,76.0,2018121000
+208,Outdoor,Natural Grass,39.0,76.0,2018121300
+209,Outdoor,FieldTurf,51.0,85.0,2018121500
+210,Outdoor,Grass,46.0,35.0,2018121501
+211,"Domed, closed",FieldTurf 360,,0.0,2018121600
+212,Outdoor,Natural Grass,43.0,97.0,2018121601
+213,Outdoors,A-Turf Titan,39.0,85.0,2018121602
+214,Outdoor,Natural Grass,45.0,63.0,2018121603
+215,Outdoor,Twenty-Four/Seven Turf,43.0,96.0,2018121604
+216,Retr. Roof-Closed,Artificial,46.0,80.0,2018121605
+217,Bowl,Grass,64.0,58.0,2018121606
+218,Indoors,Field Turf,,,2018121607
+219,,UBU Speed Series-S5-M,40.0,95.0,2018121608
+220,Outdoor,Natural Grass,61.0,68.0,2018121609
+221,Outdoors,Grass,42.0,90.0,2018121610
+222,Outdoor,Grass,60.0,79.0,2018121611
+223,Outdoors,Natural Grass,48.0,45.0,2018121700
+224,Outdoors,Grass,51.0,48.0,2018122200
+225,,Grass,60.0,89.0,2018122201
+226,Retr. Roof-Closed,Artificial,33.0,85.0,2018122300
+227,Outdoor,Natural Grass,73.0,49.0,2018122302
+228,Outdoors,Natural Grass,52.0,45.0,2018122304
+229,Outdoor,Grass,37.0,76.0,2018122305
+230,Indoor,Artificial,,,2018122306
+231,Indoors,Field Turf,68.0,70.0,2018122307
+232,Outdoor,Field Turf,40.0,38.0,2018122308
+233,Outdoors,FieldTurf,43.0,48.0,2018122309
+234,Outdoor,Grass,44.0,44.0,2018122310
+235,Dome,Grass,72.0,22.0,2018122311
+236,Outside,natural grass,50.0,76.0,2018122312
+237,Domed,UBU Speed Series-S5-M,68.0,71.0,2018122313
+238,Outdoor,FieldTurf,43.0,82.0,2018122314
+239,Outdoor,Natural Grass,58.0,80.0,2018122400
+240,Outdoor,Natural Grass,48.0,59.0,2018123000
+241,Outdoors,A-Turf Titan,33.0,75.0,2018123001
+242,Outdoor,SISGrass,26.0,70.0,2018123002
+243,Retractable Roof,Artificial,46.0,93.0,2018123003
+244,Outdoor,Natural Grass,45.0,43.0,2018123004
+245,Indoors,Field Turf,,0.0,2018123005
+246,Outdoor,Field Turf,33.0,42.0,2018123006
+247,Domed,UBU Speed Series-S5-M,64.0,98.0,2018123007
+248,,UBU Speed Series-S5-M,37.0,70.0,2018123008
+249,Outdoors,Grass,42.0,63.0,2018123009
+250,Outdoor,Natural Grass,80.0,73.0,2018123010
+251,Outdoors,Grass,53.0,67.0,2018123011
+252,Outdoor,Grass,46.0,62.0,2018123012
+253,Outdoor,Grass,51.0,22.0,2018123013
+254,Outdoor,Grass,65.0,30.0,2018123014
+255,Outdoor,FieldTurf,45.0,76.0,2018123015
